@@ -2,7 +2,7 @@ import React from "react";
 
 export function ContactUs() {
   return (
-    <div className="bg-indigo-900 w-full h-screen p-20">
+    <div className="bg-indigo-900 w-full h-full p-20">
       <h1 className="text-center text-white font-light text-4xl mb-16 capitalize">
         Visit us or call us today
       </h1>
