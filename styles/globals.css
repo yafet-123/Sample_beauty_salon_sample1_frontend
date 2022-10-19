@@ -3,70 +3,75 @@
 @tailwind utilities;
 
 .hero-background {
-  background-image: url("../public/images/bgImage7.avif");
+  background-image: url("../public/images/bgImage1.avif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .advancefacial-background {
-  background-image: url("../public/images/bgImage4.avif");
+  background-image: url("../public/images/bgImage2.avif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .occasionalpackage-background-one {
-  background-image: url("../public/images/bgImage2.avif");
+  background-image: url("../public/images/bgImage10.avif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .occasionalpackage-background-two {
-  background-image: url("../public/images/bgImage3.avif");
+  background-image: url("../public/images/bgImage11.avif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .occasionalpackage-background-three {
-  background-image: url("../public/images/bgImage5.avif");
+  background-image: url("../public/images/bgImage12.avif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .occasionalpackage-background-four {
-  background-image: url("../public/images/bgImage6.avif");
+  background-image: url("../public/images/bgImage13.avif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .beauytreatment-background-one {
-  background-image: url("../public/images/bgImage5.avif");
+  background-image: url("../public/images/bgImage8.avif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .beauytreatment-background-two {
-  background-image: url("../public/images/bgImage3.avif");
+  background-image: url("../public/images/bgImage9.avif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-
+.advancefacialone-background {
+  background-image: url("../public/images/bgImage4.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .advancefacialone-background-one {
-  background-image: url("../public/images/bgImage3.avif");
+  background-image: url("../public/images/bgImage7.avif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .advancefacialone-background-two {
-  background-image: url("../public/images/bgImage2.avif");
+  background-image: url("../public/images/bgImage6.avif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

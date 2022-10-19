@@ -3,7 +3,7 @@ import React from "react";
 export function Hero() {
   return (
     <div className="w-full h-full">
-      <div className="hero-background w-full h-[40rem] relative">
+      <div className="hero-background w-full h-[50rem] relative">
         <div className="bg-transparent w-full lg:w-[40rem] h-96 p-10 absolute top-0 right-0 bottom-0 left-0 my-auto flex flex-col justify-center">
           <h1 className="text-indigo-900 text-8xl text-left font-bold uppercase mb-5 tracking-wide w-1/4">
             Rush hair & beauty

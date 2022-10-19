@@ -3,7 +3,7 @@ import React from "react";
 export function AdvanceFacialOne() {
   return (
     <div className="w-full h-full">
-      <div className="hero-background w-full h-[35rem]"></div>
+      <div className="advancefacialone-background w-full h-[35rem]"></div>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-0 lg:gap-10 px-20 w-full h-full lg:h-screen bg-slate-100">
         <div className="lg:relative">
           <div className="advancefacialone-background-one w-full h-96 lg:h-[30rem] lg:absolute lg:-top-20 z-10"></div>
