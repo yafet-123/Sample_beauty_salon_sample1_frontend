@@ -2,7 +2,7 @@ import React from "react";
 
 export function OccasionalPackage() {
   return (
-    <div className="flex flex-col bg-white">
+    <div className="flex flex-col bg-white mt-10">
       <h1 className="text-center text-black font-bold text-2xl mb-5 capitalize">
         Occasional Package
       </h1>
