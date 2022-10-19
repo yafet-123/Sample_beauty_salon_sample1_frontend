@@ -19,11 +19,11 @@ export function Beauyreatment() {
 
       <div className="beauytreatment-background-two w-full h-[50rem] relative">
         <div className="bg-transparent w-3/4 lg:w-[40rem] h-96 p-5 lg:p-10 absolute top-0 right-10 bottom-0 my-auto flex flex-col justify-center">
-          <h1 className="text-black text-5xl text-left font-bold uppercase mb-5 tracking-wide lg:w-1/2">
+          <h1 className="text-white text-5xl text-left font-bold uppercase mb-5 tracking-wide lg:w-1/2">
             Airbase Makeup
           </h1>
           <hr className="h-2 w-3/4 bg-indigo-300 mb-5" />
-          <p className="text-left text-black font-normal text-2xl capitalize">
+          <p className="text-left text-white font-normal text-2xl capitalize">
             Perfec for weeding, proms and other special ocassions this treatment
             will give you skin a truly flawless long-lasting look. with airbase
             make up treatment, your makeup will look amazing all day no
