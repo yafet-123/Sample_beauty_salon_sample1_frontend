@@ -26,7 +26,7 @@ export function ContactUs() {
           </p>
         </div>
 
-        <div className="flex flex-col">
+        <div className="flex flex-col items-center">
           <input
             placeholder="Name"
             className="border-2 border-white rounded-lg p-3 bg-transparent placeholder:text-white w-1/2 mb-5"
